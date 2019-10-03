@@ -52,13 +52,11 @@ end
   
 def new_hash
   # return an empty hash
-  newer_hash = {}
-  newer_hash
+  {}
 end
 
 def my_hash
-  a = {1 => "edgy", 2 => "rats"}
-  a
+  {1 => "edgy", 2 => "rats"}
   # return a valid hash with any key/value pair of your choice
 end
 
